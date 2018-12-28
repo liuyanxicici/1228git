@@ -1,5 +1,7 @@
 hello world
 hello American
 hello Eur
+hello china
+hello European
 hello you
 hello he
