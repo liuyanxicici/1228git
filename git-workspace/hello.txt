@@ -1,5 +1,5 @@
 hello world
-hello me
+hello American
+hello Eur
 hello you
-hello she
 hello he
